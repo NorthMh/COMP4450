@@ -1,0 +1,21 @@
+Author,Title,Year,Publication,DOI
+Zhe Liu and Xian-Hua Han,Deep Self-Supervised Hyperspectral Image Reconstruction,2022,"Multimedia Comput. Commun. Appl. 18, 3s, Article 149 (October 2022), 20 pages",https://doi.org/10.1145/3510373
+"Shaolei Zhang, Guangyuan Fu, Hongqiao Wang, and Yuqing Zhao",Deep Multi-scale Recursive Residual Attention Network for Spectral Super Resolution,2021,"Association for Computing Machinery, New York, NY, USA",https://doi.org/10.1145/3461353.3461393
+"Manteiga, M. and Santove\~na, R. and \'Alvarez, M.~A. and Dafonte, C. and Penedo, M.~G. and Navarro, S. and Corral, L.",Disentangling stellar atmospheric parameters in astronomical spectra using generative adversarial neural networks: Application to Gaia/RVS parameterisation,2025,Astronomy and Astrophysics,https://doi.org/10.1051/0004-6361/202451786
+"Castell\'o, G. and Luna, M. and Terradas, J.",Fast Bayesian spectral analysis using convolutional neural networks: Applications to GONG H\ensuremath\alpha solar data,2025,Astronomy and Astrophysics,https://doi.org/10.1051/0004-6361/202452928
+"El-Kholy, R.~I. and Hayman, Z.~M.",Optimised sampling of SDSS-IV MaStar spectra for stellar classification using supervised models,2025,Astronomy and Astrophysics,https://doi.org/10.1051/0004-6361/202451309
+"Liu, Genghao and Tang, Baitian and Ren, Liangliang and Li, Chengyuan and Cheng, Sihao and Zong, Weikai and Fu, Jianning and Ma, Bo and Xu, Cheng and Hu, Yiming",A new code for low-resolution spectral identification of white dwarf binary candidates,2024,Astronomy and Astrophysics,https://doi.org/10.1051/0004-6361/202449775
+"Li, Xiangru and Lin, Boyu",Estimating stellar parameters from LAMOST low-resolution spectra,2023,Monthly Notices of the Royal Astronomical Society,https://doi.org/10.1093/mnras/stad831
+"Yang, Haifeng and Zhou, Lichan and Cai, Jianghui and Shi, Chenhui and Yang, Yuqing and Zhao, Xujun and Duan, Juncheng and Yin, Xiaona",Data mining techniques on astronomical spectra data - II. Classification analysis,2023,Monthly Notices of the Royal Astronomical Society,https://doi.org/10.1093/mnras/stac3292
+"Li, Zhuohan and Zhao, Gang and Chen, Yuqin and Liang, Xilong and Zhao, Jingkun",The stellar parameters and elemental abundances from low-resolution spectra - I. 1.2 million giants from LAMOST DR8,2022,Monthly Notices of the Royal Astronomical Society,https://doi.org/10.1093/mnras/stac1959
+"Li, Xiangru and Zeng, Si and Wang, Zhu and Du, Bing and Kong, Xiao and Liao, Caixiu",Estimating atmospheric parameters from LAMOST low-resolution spectra with low SNR,2022,Monthly Notices of the Royal Astronomical Society,https://doi.org/10.1093/mnras/stac1625
+"Wang, Ke and Guo, Ping and Luo, A. -Li",A new automated spectral feature extraction method and its application in spectral classification and defective spectra recovery,2017,Monthly Notices of the Royal Astronomical Society,https://doi.org/10.1093/mnras/stw2894
+"Bu, Yude and Zhao, Gang and Pan, Jingchang and Bharat Kumar, Yerra",ELM: an Algorithm to Estimate the Alpha Abundance from Low-resolution Spectra,2016,The Astrophysical Journal,https://doi.org/10.3847/0004-637X/817/1/78
+"Candebat, N. and Sacco, G.~G. and Magrini, L. and Belfiore, F. and Van der Swaelmen, M. and Zibetti, S.",Inferring stellar parameters and their uncertainties from high-resolution spectroscopy using invertible neural networks,2024,Astronomy and Astrophysics,https://doi.org/10.1051/0004-6361/202451251
+"Wang, Rui and Luo, A. -Li and Chen, Jian-Jun and Hou, Wen and Zhang, Shuo and Zhao, Yong-Heng and Li, Xiang-Ru and Hou, Yong-Hui and LAMOST MRS Collaboration",SPCANet: Stellar Parameters and Chemical Abundances Network for LAMOST-II Medium Resolution Survey,2020,The Astrophysical Journal,https://doi.org/10.3847/1538-4357/ab6dea
+
+
+
+
+
+
